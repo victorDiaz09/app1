@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+@import "variables";
+
+@import "~bootstrap/scss/bootstrap";
+
+.h-screen {
+  height: 100vh;
+}
+
+.navbar {
+  background-color: white;
+}
